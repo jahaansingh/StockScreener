@@ -1,6 +1,9 @@
 
 # Dashboard for all in one solution for value investing
+  
+  
 ![stockscreenr](https://user-images.githubusercontent.com/62877852/150923593-0ea59dac-7cad-45d1-89d9-3c0a86fe0d07.gif)
+
 
 ## Stocks Input Scraping
 List of the companies through SP500, Russell, and self inputted
