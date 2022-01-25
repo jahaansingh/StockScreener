@@ -36,4 +36,5 @@ List of the companies through SP500, Russell, and self inputted
     * Add margin of safety (Safety net 15%)
     * Buy if market price is lower than the marginal price
 	* Sell if market price is higher than the marginal price
+![s pwiki table](https://user-images.githubusercontent.com/62877852/150923211-fdcecd26-a837-4688-b6a8-25754fded9d7.png)
 
