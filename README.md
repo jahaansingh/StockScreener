@@ -1,6 +1,5 @@
-# ValueInvesting
-For value investing dashboard
-Inspired by Sean Seah Book -- Gone Fishing with (Warren Buffett)[http://www.aceprofitsacademy.com/wp-content/uploads/2016/09/Gone-Fishing-with-Buffett.pdf]
+
+# Dashboard for all in one solution for value investing
 
 
 ## Stocks Input Scraping
@@ -41,9 +40,3 @@ List of the companies through SP500, Russell, and self inputted
     * Add margin of safety (Safety net 15%)
     * Buy if market price is lower than the marginal price
 	* Sell if market price is higher than the marginal price
-
-## Additional Assessments
-* Qualitative Assessment of the companies
-    * Advantages in business (product differentiation, branding, low price producer, high switching cost, legal barriers to entry)
-    * Ability of foolhardy management (even a fool can run)
-    * Avoid price competitive business
