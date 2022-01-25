@@ -1,8 +1,12 @@
 # StockScreener
 This is a project in all in one solution to provide information for investing in real time
-<h2>Stocks Input Scraping</h2>
 
-![stockscreener](https://user-images.githubusercontent.com/62877852/150923314-4812b44a-e3ac-41b9-8ba8-da6a5ab7d66b.png)
+![stockscreenr](https://user-images.githubusercontent.com/62877852/150923593-0ea59dac-7cad-45d1-89d9-3c0a86fe0d07.gif)
+
+
+
+
+<h2>Stocks Input Scraping</h2>
 
 List of the companies through SP500, Russell, and self inputted
 <li>Getting SP500 stocks info from wikipedia</li>
