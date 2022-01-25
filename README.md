@@ -1,6 +1,9 @@
 # StockScreener
 This is a project in all in one solution to provide information for investing in real time
 <h2>Stocks Input Scraping</h2>
+
+![stockscreener](https://user-images.githubusercontent.com/62877852/150923314-4812b44a-e3ac-41b9-8ba8-da6a5ab7d66b.png)
+
 List of the companies through SP500, Russell, and self inputted
 <li>Getting SP500 stocks info from wikipedia</li>
 <li>Getting russell stocks info
@@ -16,6 +19,8 @@ List of the companies through SP500, Russell, and self inputted
 <li>Total Income</li>
 <li>Debt to Equity</li>
 <li>Interest Coverage Ratio</li>
+
+![s pwiki table](https://user-images.githubusercontent.com/62877852/150923211-fdcecd26-a837-4688-b6a8-25754fded9d7.png)
 
 ## Warning Signs List based on value investing logic
 * Given list of the companies, find out the feasibility to invest
@@ -36,5 +41,5 @@ List of the companies through SP500, Russell, and self inputted
     * Add margin of safety (Safety net 15%)
     * Buy if market price is lower than the marginal price
 	* Sell if market price is higher than the marginal price
-![s pwiki table](https://user-images.githubusercontent.com/62877852/150923211-fdcecd26-a837-4688-b6a8-25754fded9d7.png)
+
 
